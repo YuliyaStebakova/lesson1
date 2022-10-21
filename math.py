@@ -1,0 +1,16 @@
+str1 = 'bathroom'
+print(str1[:])
+print(str1[::2])
+print(str1[1::2])
+print(str1[::-1])
+print(str1[5:])
+print(str1[:5])
+print(str1[-2:-6:-1])
+a = [1, 2, 4, 9, 'mom', 'dad', 'hello', 'why']
+print(a[:])
+print(a[::2])
+print(a[1::2])
+print(a[::-1])
+print(a[5:])
+print(a[:5])
+print(a[-2:-6:-1])
