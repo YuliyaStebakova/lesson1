@@ -13,6 +13,11 @@ while True:
     if age_first > age_second:print("Первый старше на", age_first-age_second, "дней")
     else:print("Второй старше на", age_second-age_first, "дней")
 
+for i in range(54,9184):
+    if i%5 !=0:
+        continue
+    print(i)
+
 
 
 
