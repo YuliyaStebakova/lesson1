@@ -5,3 +5,4 @@ c = a//100
 d = a//10
 e = d%10
 print(b+c+e)
+print(b*c*e)
